@@ -1,0 +1,9 @@
+Length=16
+base=32
+for i in range (1,14,2):
+      print (' '*Length+i*'*')
+      Length=Length-1
+print("##". center (base))
+print("##". center (base))
+print("||". center (base))
+print ( "WAFA AFFAN CSE" . center(base))
